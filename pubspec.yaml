@@ -1,0 +1,15 @@
+name: dart_socket_io
+description: Port of JS/Node library Socket.io. It enables real-time, bidirectional and event-based communication cross-platform.
+version: 1.0.0
+repository: https://github.com/avesbox/dart_socket_io
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+# Add regular dependencies here.
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
